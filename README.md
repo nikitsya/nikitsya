@@ -1,1 +1,1 @@
-# I'm Nikita Smiichyk 🪽 Software Development student (QQI Level 8) based in Dundalk, Ireland. I build backend-oriented applications and structured systems, with a strong focus on clean architecture, business logic, and maintainability.
+## I'm Nikita Smiichyk 🪽 Software Development student (QQI Level 8) based in Dundalk, Ireland. I build backend-oriented applications and structured systems, with a strong focus on clean architecture, business logic, and maintainability.
