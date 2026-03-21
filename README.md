@@ -17,11 +17,6 @@ I value clarity, logic, and maintainable code
 
 <table>
   <tr>
-    <td>💭</td>
-    <td><b>Currently learning</b></td>
-    <td>Backend Architecture & System Design</td>
-  </tr>
-  <tr>
     <td>🤝</td>
     <td><b>Open to</b></td>
     <td>Internships & real-world projects</td>
