@@ -6,7 +6,7 @@
 
 <div align="center">
 
-Software Development student (QQI Level 8) based in Dundalk, Ireland  
+Software Development student (QQI Level 8)  
 Focused on backend development, system design, and structured applications  
 Interested in building reliable, scalable systems  
 I value clarity, logic, and maintainable code
