@@ -17,11 +17,6 @@ I value clarity, logic, and maintainable code
 
 <table>
   <tr>
-    <td>📬</td>
-    <td><b>Contact</b></td>
-    <td><a href="mailto:nikitasmiichyk@gmail.com">nikitasmiichyk@gmail.com</a></td>
-  </tr>
-  <tr>
     <td>🌐</td>
     <td><b>Portfolio</b></td>
     <td><a href="https://nikitsya.com">nikitsya.com</a></td>
