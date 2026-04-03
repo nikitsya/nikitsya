@@ -14,13 +14,8 @@ I value clarity, logic, and maintainable code
 </div>
 
 <div align="center">
-
-<table>
-  <tr>
-    <td>🌐</td>
-    <td><b>Portfolio</b></td>
-    <td><a href="https://nikitsya.com">nikitsya.com</a></td>
-  </tr>
-</table>
+  
+<b> 🌐 </b>
+<a href="https://nikitsya.com">nikitsya.com</a>
 
 </div>
